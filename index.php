@@ -12,6 +12,11 @@
     <h1>Hello World</h1>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio eligendi maxime facilis velit. Fugiat eum, eligendi voluptate magni error tempora? Fuga, atque cupiditate impedit dolorum voluptates et ipsam quod officia.</p>
+
+    <ul>
+        <li>list satu</li>
+        <li>list dua</li>
+    </ul>
 </body>
 
 </html>
